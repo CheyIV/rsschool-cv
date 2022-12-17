@@ -19,3 +19,8 @@ multiply = function (a, b) {
 ```
 ## Works experience
 **CV**  
+## Education
+*VOLGGMU, specialisation: General Medicine*
+## English lever
+**Practice:** spoke with native speaker     
+![ENL](./ENL.jpg)
